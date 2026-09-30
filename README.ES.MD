@@ -2,7 +2,7 @@
 
 Este proyecto implementa el diseño, la securización y el control de auditoría de una base de datos relacional para la gestión de envíos y facturación en **PostgreSQL**. La arquitectura se basa estrictamente en el **Principio de Menor Privilegio** y la separación de funciones.
 
-👉 *You can find the English version of this documentation in the [README.md](README.md) file.*
+👉 *You can find the English version of this documentation in the [README.md](README.MD) file.*
 
 ---
 

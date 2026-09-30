@@ -2,7 +2,7 @@
 
 This project implements the design, securitization, and audit control of a relational database for managing shipments and billing in **PostgreSQL**. The architecture is strictly grounded on the **Principle of Least Privilege** and the strict separation of duties.
 
-👉 *Para la versión en español, consulta el archivo [README.es.md](README.es.md).*
+👉 *Para la versión en español, consulta el archivo [README.es.md](README.ES.MD).*
 
 ---
 
